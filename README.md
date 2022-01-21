@@ -4,6 +4,8 @@ clone, no fork, dummy SoftwareSerial port read and relay to WebSerial
 ref : https://www.arduino.cc/reference/en/libraries/webserial/
 
 
+![Demo_AP.JPG](Demo_AP.JPG)  
+
 
 ssid and pwd  
 ```
